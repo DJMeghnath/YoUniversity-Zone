@@ -11,11 +11,11 @@ Creation of a Note Making app that can engage Local people (Assamemse) with less
 Over the period as more people are adopting technology for their daily simple life task. This is pushing the local people specially the elder generation or people with less education in these technology gaps.Since our college also have local staff with less tecnological knowledge like Guards , Maid , Cook etc with responsibilites or tasks , we have decided to create an app called YOUNIVERSITY which gives them the advantage to easily understand UI and functioning of it. It can also assist the users to store images directly in the app so that they can boost their efficeny and never miss an assigned objective
 
 
-<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Notebook/blob/master/photos/Screenshot_20220110-233318_YoUniversity%20Notebook.png">
-<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Notebook/blob/master/photos/Screenshot_20220110-233332_YoUniversity%20Notebook.png">
-<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Notebook/blob/master/photos/Screenshot_20220110-233327_YoUniversity%20Notebook.png">
-<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Notebook/blob/master/photos/Screenshot_20220110-233352_YoUniversity%20Notebook.png">
-<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Notebook/blob/master/photos/Screenshot_20220110-233428_YoUniversity%20Notebook.png">
+<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Zone/blob/master/photos/Screenshot_20220110-233318_YoUniversity%20Notebook.png">
+<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Zone/blob/master/photos/Screenshot_20220110-233332_YoUniversity%20Notebook.png">
+<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Zone/blob/master/photos/Screenshot_20220110-233327_YoUniversity%20Notebook.png">
+<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Zone/blob/master/photos/Screenshot_20220110-233352_YoUniversity%20Notebook.png">
+<img width="559" alt="sampleimages" src="https://github.com/DJMeghnath/YoUniversity-Zone/blob/master/photos/Screenshot_20220110-233428_YoUniversity%20Notebook.png">
         
 
 <b> Functionality & Concepts used : </b>
