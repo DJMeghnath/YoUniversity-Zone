@@ -1,4 +1,4 @@
-# ASJ - Gauhati Universirtty
+Gauhati Universirtty
 
 A Local Language Note making app
 
